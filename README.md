@@ -7,10 +7,10 @@ Dataset:
 The dataset used in this project is the "Customer Segmentation" dataset available on Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 Requirements: 
-Python 3.x
-NumPy
-Pandas
-Scikit-learn
+Python 3.x, 
+NumPy, 
+Pandas, 
+Scikit-learn, 
 Matplotlib
 
 Output: 
